@@ -6,7 +6,7 @@
 
 ## **What my LinkedIn profile says**
 Being a Software Engineer is a lot like stumbling around in a dark room, hoping you don’t stub your toe on an end table or step on a LEGO piece. Currently interested in opportunities that offer full WFH (Remote) arrangements. 
-> The ~boring~ serious About Me: Software Engineer with over 8 years of experience in full stack development, most recently in **C# and .NET**. I have a creative streak that emerges from time to time.
+> The ~boring~ serious About Me: Software Engineer with over 8 years of experience in full stack development, most recently in **C# and .NET**. I have a creative streak that emerges from time to time. Sometimes, [I write](https://medium.com/@ash.n/about).
 
 ### **Skills**
 - **Programming Languages**: (most recent) C# | C++, Java, PHP, JavaScript, SQL, Lua
