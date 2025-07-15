@@ -40,7 +40,7 @@ Petaling Jaya, Selangor
 Petaling Jaya, Selangor  
 - Game programmer for ["Masquerade: The Baubles of Doom"](https://www.youtube.com/@Masqueradegameon/videos)—focusing on audio, tools, and gameplay.
 - Designed, implemented, and maintained game code (C++, C#, FMOD API, Lua).
-- Provided feedback and guidance to QA staff to ensure thorough testing of game functionality.
+- Provided feedback and guidance to QA to ensure thorough testing of game functionality.
 
 #### **Programmer**
 **Gentle Impact (M) Sdn Bhd**  
