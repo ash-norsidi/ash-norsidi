@@ -38,7 +38,7 @@ Petaling Jaya, Selangor
 **Sage Interactive MSC Sdn Bhd**  
 *Apr 2011 - Jan 2014 (2 yrs 10 mos)*  
 Petaling Jaya, Selangor  
-- Game programmer for "Masquerade: The Baubles of Doom," focusing on tools, gameplay, and audio.
+- Game programmer for ["Masquerade: The Baubles of Doom"](https://www.youtube.com/@Masqueradegameon/videos)—focusing on audio, tools, and gameplay.
 - Designed, implemented, and maintained game code (C++, C#, FMOD API, Lua).
 - Provided feedback and guidance to QA staff to ensure thorough testing of game functionality.
 
@@ -66,7 +66,7 @@ Kuala Lumpur, Malaysia
 - **Masquerade: The Baubles of Doom**  
   - Role: Main Programmer for audio implementation.  
   - Release Date: April 20, 2016.  
-  - [Masquerade The Baubles of Doom YouTube Channel]([http://www.masqueradegame.com](https://www.youtube.com/@Masqueradegameon/videos))
+  - [Masquerade The Baubles of Doom YouTube Channel](http://www.masqueradegame.com](https://www.youtube.com/@Masqueradegameon/videos)
 - **Visit my repositories?**
   - Currently exploring AI tools to do random stuff for me (coding, writing, image and video generation, etc.)
 
