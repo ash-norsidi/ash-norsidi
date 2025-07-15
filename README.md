@@ -66,7 +66,7 @@ Kuala Lumpur, Malaysia
 - **Masquerade: The Baubles of Doom**  
   - Role: Main Programmer for audio implementation.  
   - Release Date: April 20, 2016.  
-  - [Official Website](http://www.masqueradegame.com)
+  - [Masquerade The Baubles of Doom YouTube Channel]([http://www.masqueradegame.com](https://www.youtube.com/@Masqueradegameon/videos))
 - **Visit my repositories?**
   - Currently exploring AI tools to do random stuff for me (coding, writing, image and video generation, etc.)
 
