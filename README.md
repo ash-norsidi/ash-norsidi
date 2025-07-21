@@ -9,7 +9,7 @@ Being a Software Engineer is a lot like stumbling around in a dark room, hoping 
 > The ~boring~ serious About Me: Software Engineer with over 8 years of experience in full stack development, most recently in **C# and .NET**. I have a creative streak that emerges from time to time. Sometimes, [I write](https://medium.com/@ash.n).
 
 ### **Skills**
-- **Programming Languages**: (most recent) C# | C++, Java, PHP, JavaScript, SQL, Lua
+- **Programming Languages**: (most recent) C# | JavaScript, SQL, PHP, Lua, C++, Java
 - **Frameworks and Technologies**: .NET Framework, Visual Studio, Azure DevOps, Unity3D, FMOD
 - **Web Development**: Full stack web application development (.Net, PHP, SQL, HTML, jQuery)
 - **Game Development**: Game programming
