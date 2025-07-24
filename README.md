@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ash-norsidi
+- 👋 Hi, I’m [@ash-norsidi](https://ash-n-cv.lovable.app/)
 - 👀 I’m interested in making computers do the work for me
 - 🌱 I’m currently just ~~messing around with~~ exploring AI tools to do all kinds of stuff for me (coding, writing, image and video generation, you name it) — including the ASCII art below 😼
 
