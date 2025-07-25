@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@ash-norsidi](https://ash-n-cv.lovable.app/)
 - 👀 I’m interested in making computers do the work for me and I have a creative side that emerges from time to time.
-- 🌱 I’m currently just ~~messing around with~~ exploring AI tools to build all sorts of stuff for me — coding, [writing](https://medium.com/@ash.n), image and video generation, you name it — including the ASCII art below 😼
+- 🌱 I’m currently just ~~messing around with~~ exploring various AI tools to assist me in creating a wide range of projects, including coding, [writing](https://medium.com/@ash.n), generating images and videos — you name it — including the ASCII art below 😼
 
 ---
 ```
