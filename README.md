@@ -31,7 +31,7 @@
 |   Being a Software Engineer is a lot like stumbling around in a dark                                  │
 │   room, hoping you don't stub your toe on an end table or step on a LEGO                              │
 │   piece. After over 8 years of stumbling, I've learned to navigate those                              │
-│   dark rooms pretty well.                                                                             │
+│   dark rooms pretty well and get things done.                                                                             │
 │                                                                                                       │
 │                                ⚙️💡😺🧠🧩🎵💫🌀✨                                                 │
 │                                                                                                       │
