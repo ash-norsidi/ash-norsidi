@@ -31,8 +31,8 @@
 |   Being a Software Engineer is a lot like stumbling around in a dark                                  │
 │   room, hoping you don't stub your toe on an end table or step on a LEGO                              │
 │   piece. After over 8 years of diving headfirst into prototypes and PoCs                              |
-|   —stubbing toes and shipping features in equal measure—I've learnt to navigate                       │
-│   those dark rooms pretty well.                                                                       │
+|   —stubbing toes and shipping features in equal measure—I've learnt to                                │
+│   navigate those dark rooms pretty well.                                                              │
 │                                                                                                       │
 │                                ⚙️💡😺🧠🧩🎵💫🌀✨                                                 │
 │                                                                                                       │
